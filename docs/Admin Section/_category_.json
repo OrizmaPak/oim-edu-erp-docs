@@ -1,0 +1,7 @@
+{
+    "label": "Admin Section",
+    "link": {
+        "type": "generated-index",
+        "description": "This is to view the admin section and all its sub categories."
+    }
+}
